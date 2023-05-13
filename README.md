@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Priit Roosmäe / @priitrs
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning Java at Vali-IT course
-- 💞️ I’m looking to collaborate on software developing projects.
 - 📫 How to reach me: priitrs@gmail.com
 
 <!---
